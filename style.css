@@ -98,10 +98,10 @@ i:hover{
     color: white;
 }
 
-@media screen and (max-width : 340px){
+@media screen and (max-width : 426px){
     .mainDiv{
         width: 45vh;
-        height: 54vh;
+        height: 54vh;   
     }
 
     #printDiv{
